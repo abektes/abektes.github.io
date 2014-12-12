@@ -23,12 +23,12 @@ footer-links:
   flickr: 
   github: abektes
   instagram: 
-  linkedin: 
+  linkedin: ahmetbektes
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter:
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-
+  stackoverflow: users/24843/abektes # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  behance: ahmetbektes
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: 
 

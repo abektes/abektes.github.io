@@ -4,7 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi,
+
+I am Ahmet. I was designing office furniture systems and one day just woke up. I need to be on complex side of the competition..
+
 
 ### More Information
 
@@ -12,4 +15,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ahmet@22pm.net](mailto:ahmet@22pm.net)
